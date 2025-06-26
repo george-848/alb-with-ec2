@@ -12,8 +12,7 @@ This project demonstrates how to deploy a simple web application using:
 - Amazon VPC (default)
 - Security Groups
 - User Data Script (for Apache)
-
-
+  
 ## 🔧 Step-by-Step Setup
 
 ### 1. Launch 2 EC2 Instances
